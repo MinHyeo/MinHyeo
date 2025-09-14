@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${200}&section=header&text=Hello,%20I'm%20Minhyung%20👋&fontSize=${40}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${200}&section=header&text=Hello,%20I'm%20Minhyeong%20👋&fontSize=${40}&animation=${twinkling})
 
 ### My Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyeo&layout=compact&hide_title=true)
