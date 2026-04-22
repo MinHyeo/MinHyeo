@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${200}&section=header&text=Hello,%20I'm%20Minhyeong%20👋&fontSize=${40}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${200}https://github.com/MinHyeo/MinHyeo/blob/main/README.md&section=header&text=Hello,%20I'm%20Minhyeong%20👋&fontSize=${40}&animation=${twinkling})
 
 ### My Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyeo&layout=compact&hide_title=true)
 
 ### My Git Stats
-![](https://github-readme-stats.vercel.app/api?username=Minyeo&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Minhyeo&include_all_commits=true)
 
 ### My Skills
 ![js](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
